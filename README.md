@@ -1,4 +1,4 @@
-# Data Analysis Portfolio
+# Jack Baek - Data Analysis Portfolio
 
 ## About Me
 Hi, I am Jack! I have completed my BA in Economics. I have a strong foundation in economic concepts and a passion for using data to discover new findings. 
