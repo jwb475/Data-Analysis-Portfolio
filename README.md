@@ -10,4 +10,22 @@ Here is my [CV](https://drive.google.com/file/d/1kuWMVC0Wsx_7qDCw1pLy8uRjf1gBqMF
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics. 
 
 ## Table of Contents
-- [About Me]() 
+- [About Me](https://github.com/jwb475/Data-Analysis-Portfolio#about-me)
+- [Portfolio Projects](https://github.com/jwb475/Data-Analysis-Portfolio)
+  - Python
+  - SQL
+  - R
+  - Excel/GoogleSheets
+  - Tableau
+  - PowerBi
+- [Education]()
+- Certifications
+- Contact Me!
+
+## Education
+New York University in Abu Dhabi- BA, Economics
+
+## Certifications
+- IBM Introduction to Data Analytics
+
+## Contact Me!
