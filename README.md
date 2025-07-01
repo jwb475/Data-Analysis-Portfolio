@@ -28,8 +28,8 @@ This is a repository that I have created to showcase skills, share projects and 
 New York University in Abu Dhabi- BA, Economics
 
 ## Certifications
-- IBM Introduction to Data Analytics
-
+- IBM Data Analyst Professional Certificate
+  
 ## Contact Me!
 - [LinkedIn](https://www.linkedin.com/in/jin-wook-baek-jwb475/)
 - Email: [jwb475@nyu.edu](jwb475@nyu.edu)
