@@ -9,7 +9,7 @@ This is a repository that I have created to showcase skills, share projects and 
 
 ## Table of Contents
 - [About Me](https://github.com/jwb475/Data-Analysis-Portfolio#about-me)
-- [Portfolio Projects](https://github.com/jwb475/Data-Analysis-Portfolio)
+- [Portfolio Projects](https://github.com/jwb475/PortfolioProjects)
   - Python
     - [Analyzing the Number of Earnings Conference Call Transcripts](https://github.com/jwb475/Data-Analysis-Portfolio/blob/main/TranscriptEDA.ipynb)   
     - [Tech Store Sales Analysis](https://github.com/jwb475/Data-Analysis-Portfolio/blob/main/Tech%20Store%20Sales.ipynb)
