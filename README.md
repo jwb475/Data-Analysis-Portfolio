@@ -3,7 +3,7 @@
 ## About Me
 Hi, I’m Jack. I hold a BA in Economics and have a strong foundation in economic theory and data analysis. I excel at working with complex data, identifying patterns, and applying statistical techniques. My experience includes data management, statistical analysis, and creating effective data visualizations.
 
-Here is my [CV](https://drive.google.com/file/d/1kuWMVC0Wsx_7qDCw1pLy8uRjf1gBqMFN/view?usp=sharing). 
+Here is my [CV](https://drive.google.com/file/d/1_v27TnvtCbtfBNAlmk8XlknUBzqsttQ2/view?usp=drive_link). 
 
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics. 
 
@@ -11,7 +11,7 @@ This is a repository that I have created to showcase skills, share projects and 
 - [About Me](https://github.com/jwb475/Data-Analysis-Portfolio#about-me)
 - [Portfolio Projects](https://github.com/jwb475/PortfolioProjects)
   - Python
-    - [Analyzing the Number of Earnings Conference Call Transcripts](https://github.com/jwb475/Data-Analysis-Portfolio/blob/main/TranscriptEDA.ipynb)   
+    - [Analyzing the Number of Earnings Conference Call Transcripts](https://github.com/jwb475/Data-Analysis-Portfolio/blob/main/TranscriptEDA.ipynb)
     - [Tech Store Sales Analysis](https://github.com/jwb475/Data-Analysis-Portfolio/blob/main/Tech%20Store%20Sales.ipynb)
   - SQL
   - R
