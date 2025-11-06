@@ -1,7 +1,7 @@
 # Jack Baek - Data Analysis Portfolio
 
 ## About Me
-Hi, I’m Jack. I hold a BA in Economics and have a strong foundation in economic theory and data analysis. I excel at working with complex data, identifying patterns, and applying statistical techniques. My experience includes data management, statistical analysis, and creating effective data visualizations.
+Hi, I’m Jack. I hold a Bachelor's in Economics and have a strong foundation in economic theory and data analysis. I excel at working with complex data, identifying patterns, and applying statistical techniques. My experience includes data management, statistical analysis, and creating effective data visualizations.
 
 Here is my [CV](https://drive.google.com/file/d/1_v27TnvtCbtfBNAlmk8XlknUBzqsttQ2/view?usp=drive_link). 
 
@@ -14,7 +14,7 @@ This is a repository that I have created to showcase skills, share projects and 
     - [Earnings Conference Call Transcripts](https://github.com/jwb475/Data-Analysis-Portfolio/blob/main/TranscriptEDA.ipynb)
     - [Tech Store Sales Analysis](https://github.com/jwb475/Data-Analysis-Portfolio/blob/main/Tech%20Store%20Sales.ipynb)
   - SQL
-    - [MovieLens Analysis]
+    - [MovieLens Analysis] (https://github.com/jwb475/MovieLens_SQL_Analysis)
   - R
   - Excel/GoogleSheets
     - [Bike Sales](https://github.com/jwb475/Data-Analysis-Portfolio/blob/main/Excel%20Bike%20Sales%20Project%20Dataset.xlsx)
