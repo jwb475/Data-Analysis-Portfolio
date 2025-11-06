@@ -14,6 +14,7 @@ This is a repository that I have created to showcase skills, share projects and 
     - [Earnings Conference Call Transcripts](https://github.com/jwb475/Data-Analysis-Portfolio/blob/main/TranscriptEDA.ipynb)
     - [Tech Store Sales Analysis](https://github.com/jwb475/Data-Analysis-Portfolio/blob/main/Tech%20Store%20Sales.ipynb)
   - SQL
+    - [MovieLens Analysis]
   - R
   - Excel/GoogleSheets
     - [Bike Sales](https://github.com/jwb475/Data-Analysis-Portfolio/blob/main/Excel%20Bike%20Sales%20Project%20Dataset.xlsx)
