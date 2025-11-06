@@ -11,16 +11,16 @@ This is a repository that I have created to showcase skills, share projects and 
 - [About Me](https://github.com/jwb475/Data-Analysis-Portfolio#about-me)
 - [Portfolio Projects](https://github.com/jwb475/PortfolioProjects)
   - Python
-    - [Earnings Conference Call Transcripts](https://github.com/jwb475/Data-Analysis-Portfolio/blob/main/TranscriptEDA.ipynb)
-    - [Tech Store Sales Analysis](https://github.com/jwb475/Data-Analysis-Portfolio/blob/main/Tech%20Store%20Sales.ipynb)
+    - [Earnings Conference Call Transcripts](https://github.com/jwb475/PortfolioProjects/blob/main/TranscriptEDA.ipynb)
+    - [Tech Store Sales Analysis](https://github.com/jwb475/PortfolioProjects/blob/main/Tech%20Store%20Sales.ipynb)
   - SQL
     - [MovieLens Analysis] (https://github.com/jwb475/MovieLens_SQL_Analysis)
   - R
   - Excel/GoogleSheets
-    - [Bike Sales](https://github.com/jwb475/Data-Analysis-Portfolio/blob/main/Excel%20Bike%20Sales%20Project%20Dataset.xlsx)
+    - [Bike Sales](https://github.com/jwb475/PortfolioProjects/blob/main/Excel%20Bike%20Sales%20Project%20Dataset.xlsx)
   - Tableau
   - PowerBI
-    - [HR Analytics](https://github.com/jwb475/Data-Analysis-Portfolio/blob/main/HR%20Analytics.pbix)
+    - [HR Analytics](https://github.com/jwb475/PortfolioProjects/blob/main/HR%20Analytics.pbix)
 - [Education]()
 - Certifications
 - Contact Me!
