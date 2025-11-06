@@ -33,6 +33,7 @@ A small percentage of highly engaged users contribute disproportionately to the 
 **Data**:
 
 |Rating | Count | Percentage|
+|-------|-------|-----------|
 |5      | 6110  | 6.11%     |
 |4      | 11370 | 11.37%    |
 |3      | 27145 | 27.14%    |
